@@ -1,0 +1,12 @@
+/* 画像のサイズ調整 */
+img {
+  height: 100px;
+}
+/* 文字のデザイン */
+#name {
+    color: blue;
+  }
+  
+  #result {
+    color: green;
+  }
